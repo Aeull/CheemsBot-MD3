@@ -32,7 +32,7 @@ global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
 global.botname = "ArullBotz" //ur bot name
-global.websitex = "https://youtu.be/IL2PZql859c" //ur website
+global.websitex = "https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
 global.author = "ArullBotz"
@@ -43,7 +43,7 @@ global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
 global.watermark = "ArullBotz" //ur watermark
 global.botscript = "https://youtu.be/Gr6yuCbSGTI"
 global.linkz1 = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz2 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKASl"
+global.linkz2 = "https://chat.whatsapp.com/ItwCvXL02hg11U5qNaLSBe"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
