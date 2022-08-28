@@ -69,7 +69,7 @@ global.rkyt = []
 global.wlcm = []
 global.gcrevoke = []
 global.autorep = []
-global.ntilink = ["120363024920013325@g.us","120363040699372531@g.us"]
+global.ntilink = []
 
 //omther
 global.lolhuman = "KaysaS"
