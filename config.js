@@ -62,14 +62,14 @@ global.ntilinktwt = []
 global.ntilinkall = []
 global.nticall = []
 global.ntwame = []
-global.nttoxic = []
+global.nttoxic = ["120363024920013325@g.us","120363040699372531@g.us"]
 global.ntnsfw = []
-global.ntvirtex = []
+global.ntvirtex = ["120363024920013325@g.us","120363040699372531@g.us"]
 global.rkyt = []
 global.wlcm = []
 global.gcrevoke = []
 global.autorep = []
-global.ntilink = []
+global.ntilink = ["120363024920013325@g.us","120363040699372531@g.us"]
 
 //omther
 global.lolhuman = "KaysaS"
